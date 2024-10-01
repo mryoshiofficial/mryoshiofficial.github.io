@@ -4,17 +4,17 @@
 color: #f9b64c;
 }
 h1,p {
-text-shadow: 2px 2px #7d5b24;
-font-size: 54px;
+text-shadow: 1px 1px #7d5b24;
+font-size: 44px;
 }
 h2 {
-color: #FFFFFF ; text-shadow: 2px 2px #696969;
+color: #FFFFFF ; text-shadow: 1px 1px #696969; font-size: 30px;
 }
 h3 {
-color: #FFFFFF ; text-shadow: 2px 2px #696969;
+color: #FFFFFF ; text-shadow: 1px 1px #696969; font-size: 24px;
 }
 h4 {
-color: #FFFFFF ; text-shadow: 3px 3px #696969;
+color: #FFFFFF ; text-shadow: 1px 1px #696969;font-size: 16px;
 }
 p {
 color: #FFFFFF ; text-shadow: 1px 1px #696969;
